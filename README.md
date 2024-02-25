@@ -24,4 +24,4 @@ Hey there! I'm Jimmy Wu, a passionate maker and problem solver with a keen inter
 
 Thanks for dropping by! Let's build something awesome together. 🚀
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
